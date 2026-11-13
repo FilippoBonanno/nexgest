@@ -8,6 +8,12 @@ Progettato e sviluppato da me, versione 1.0 (maggio 2026), pronto per la demo al
 
 **Stack:** PHP 8.2 · MySQL/MariaDB · PHPRunner (generazione) + libreria PHP scritta a mano · JavaScript · Chart.js · Bootstrap · PowerShell · hosting condiviso con cron
 
+![Dashboard: contratti, finanziato, incidenza CPI, andamento, promozioni e classifica operatori](docs/dashboard.jpg)
+
+![Lista giornaliera dei promemoria con scadenze, priorità e ricorrenze](docs/promemoria.jpg)
+
+<sub>Screenshot dall'installazione demo con dati di prova.</sub>
+
 ## Cosa fa
 **Anagrafiche.** Aziende convenzionate, clienti con validazione del codice fiscale e consenso marketing, operatori con creazione e sincronizzazione automatica dell'account (username univoco, ruolo predefinito).
 
