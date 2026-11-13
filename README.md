@@ -1,6 +1,6 @@
 # NexGest
 
-Gestionale per **agenzie di intermediazione di prestiti e finanziamenti**: aziende convenzionate, clienti, operatori, campagne promozionali, pratiche con le diverse finanziarie e promemoria di follow-up, con controllo delle performance degli operatori.
+Gestionale per **agenzie di intermediazione di prestiti e finanziamenti**: aziende convenzionate, clienti, operatori, campagne promozionali, pratiche con le diverse finanziarie (tra cui Agos) e promemoria di follow-up, con controllo delle performance degli operatori.
 
 Progettato e sviluppato da me, versione 1.0 (maggio 2026), pronto per la demo al cliente con dati di prova e manuale utente.
 
